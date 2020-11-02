@@ -1,0 +1,11 @@
+<!-- <p>{{$type}}--{{$base}}--{{$price}}</p> -->
+                    <!-- @if($price>20)
+                    <p>this pizza is expensive</p>
+                    <!- @elseif($price<5) -->
+                    <!-- <!<p>this pizza is cheap</p> -->
+                    <!-- @else -->
+                    <!-- <p>this pizza is fairly priced</p> -->
+                    <!-- @endif -->
+                    <!-- @unless($base=='Cheese Crust1') -->
+                    <!-- <p>this pizza has cheese crust</p> -->
+                    <!-- @endunless  -->
